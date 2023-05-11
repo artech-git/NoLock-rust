@@ -1,5 +1,7 @@
 # NoLock-Rust
 
+![image](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)
+
 A Collection of non-locking data structures and crates supporting them 
 
 
